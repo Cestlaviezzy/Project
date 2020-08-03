@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MetaGen.targets(91,5): warning : 缺少必需的文件“C:\USERS\DELL\SOURCE\REPOS\BURNPROCESS\EQUIPLINKMES.DLL”。
+  BurnProcessDlg.cpp
+  BurnProcess.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+msvcrtd.lib(initializers.obj) : warning LNK4098: 默认库“ucrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  BurnProcess.vcxproj -> C:\Users\DELL\source\repos\BurnProcess01\Debug\BurnProcess.exe
